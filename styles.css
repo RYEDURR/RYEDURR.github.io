@@ -1,0 +1,35 @@
+p {
+    text-align: center; color:darkviolet
+}
+#para1 {
+    text-align: left; color:darkviolet
+}
+.center {
+    text-align: left; color:darkviolet;
+}
+
+body {
+    background: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: violet;
+    text-align: left;
+}
+.about {
+    text-align: center; color: violet; background: darkolivegreen;
+}
+.skills{
+    text-align: center; color: violet; background: green;
+}
+.projects {
+    text-align: center; color: violet; background: lightgreen;
+}
+.contact {
+    text-align: center; color: violet; background: limegreen;
+}
+h2 {
+    color: violet;
+    text-align: left;
+}
